@@ -1,0 +1,6 @@
+export(abundance,petersen)
+
+importFrom(stats, optimize, pnorm)
+
+S3method(print, abundance)
+S3method(print, petersen)
