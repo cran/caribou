@@ -14,8 +14,8 @@ Index as applied to radio telemetry data by White and Garrott (1990).
 \tabular{ll}{
 Package: \tab caribou\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-01-25\cr
+Version: \tab 1.1\cr
+Date: \tab 2012-06-11\cr
 License: \tab GPL-2\cr
 }
 CONTEXT:\cr
