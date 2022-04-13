@@ -27,7 +27,6 @@ This data set provide the opportunity to test the models under very high samplin
 Dau, J., unpubl. data
 }
 \examples{
-data(WAH11)
 petersen(WAH11, M=97)
 abundance(WAH11, n=97, model="H")
 abundance(WAH11, n=97, model="I")

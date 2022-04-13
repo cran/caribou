@@ -27,7 +27,6 @@ region and Labrador}. Min. Ressources naturelles, Faune et Parcs, Quebec. 68 p.
 ISBN: 2-550-43725-X
 }
 \examples{
-data(GRH01)
 petersen(GRH01, M=109)
 abundance(GRH01, n=109, model="H")
 abundance(GRH01, n=109, model="I")

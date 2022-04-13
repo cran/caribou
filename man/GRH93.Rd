@@ -25,7 +25,6 @@ Rivest, L.-P., Couturier, S. and Crepeau, H. (1998). Statistical Methods for est
 using postcalving aggregations detected by radio telemetry. \emph{Biometrics}, \bold{54}(3), 865-876.
 }
 \examples{
-data(GRH93)
 petersen(GRH93, M=92)
 petersen(GRH93, M=92, S=4000)
 abundance(GRH93, n=92, model="H")

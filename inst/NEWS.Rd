@@ -1,11 +1,17 @@
 \name{NEWS}
 \title{News for Package 'caribou'}
+\section{Changes in caribou version 1.1-1}{
+  \itemize{
+    \item R CMD check note fixed, maintainership transfer and documentation improvement.
+  }
+}
 \section{Changes in caribou version 1.1}{
   \itemize{
     \item The data set WAH09 has been replaced by a more recent one: the Western Arctic Herd 2011 
           data, named WAH11.
   }
-}\section{Changes in caribou version 1.0}{
+}
+\section{Changes in caribou version 1.0}{
   \itemize{
     \item First official release.
   }

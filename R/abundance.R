@@ -1,6 +1,6 @@
 ###########################################################################
-#  Original program realized by Hélène Crépeau (21-02-2011)
-#  Updates realized by Sophie Baillargeon
+#  Original program written by Helene Crepeau (21-02-2011)
+#  Updates done by Sophie Baillargeon
 ############################################################################
 
 abundance<-function(mat, n, model=c("H","I","T"), B, maxT.hat)

@@ -2,9 +2,9 @@
 \alias{caribou-package}
 \alias{caribou}
 \docType{package}
-\title{ Estimation of caribou abundance based on large scale aggregations monitored by radio telemetry }
+\title{Estimation of Caribou Abundance Based on Radio Telemetry Data }
 \description{
-This is a package for estimating the population size of migratory caribou herds 
+Estimation of population size of migratory caribou herds 
 based on large scale aggregations monitored by radio telemetry. It implements 
 the methodology found in the article by Rivest et al. (1998) about caribou 
 abundance estimation. It also includes a function based on the Lincoln-Petersen 
@@ -14,8 +14,8 @@ Index as applied to radio telemetry data by White and Garrott (1990).
 \tabular{ll}{
 Package: \tab caribou\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2012-06-11\cr
+Version: \tab 1.1-1\cr
+Date: \tab 2022-04-13\cr
 License: \tab GPL-2\cr
 }
 CONTEXT:\cr
@@ -38,10 +38,12 @@ and quote this paper:\cr
 Rivest, L.-P., Couturier, S. and Crepeau, H. (1998). Statistical Methods for estimating caribou abundance 
 using postcalving aggregations detected by radio telemetry. \emph{Biometrics}, \bold{54}(3), 865-876.
 }
-\author{ Helene Crepeau \email{Helene.Crepeau@mat.ulaval.ca} and\cr
+\author{
 Louis-Paul Rivest \email{Louis-Paul.Rivest@mat.ulaval.ca} and\cr
+Helene Crepeau \email{Helene.Crepeau@mat.ulaval.ca} and\cr
 Serge Couturier \email{tuttu@videotron.ca} and\cr 
-Sophie Baillargeon \email{Sophie.Baillargeon@mat.ulaval.ca} }
+Sophie Baillargeon \email{Sophie.Baillargeon@mat.ulaval.ca}
+}
 \references{
 Rivest, L.-P., Couturier, S. and Crepeau, H. (1998). Statistical Methods for estimating caribou abundance 
 using postcalving aggregations detected by radio telemetry. \emph{Biometrics}, \bold{54}(3), 865-876.

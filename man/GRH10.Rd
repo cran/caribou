@@ -24,7 +24,6 @@ During this survey, 71 collars were active.\cr
 Couturier, S., unpubl. data
 }
 \examples{
-data(GRH10)
 petersen(GRH10, M=71)
 petersen(GRH10, M=71, S=1000)
 abundance(GRH10, n=71, model="H")

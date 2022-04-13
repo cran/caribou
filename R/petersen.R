@@ -1,6 +1,6 @@
 ###########################################################################
-#  Original program realized by Hélène Crépeau (21-02-2011)
-#  Updates realized by Sophie Baillargeon
+#  Original program written by Helene Crepeau (21-02-2011)
+#  Updates done by Sophie Baillargeon
 ############################################################################
 
 petersen=function(mat, M, S=0)

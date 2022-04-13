@@ -71,10 +71,12 @@ For the threshold model, \code{B} is a bound given as a function's argument.
 Rivest, L.-P., Couturier, S. and Crepeau, H. (1998). Statistical Methods for estimating caribou abundance 
 using postcalving aggregations detected by radio telemetry. \emph{Biometrics}, \bold{54}(3), 865-876.
 }
-\author{ Helene Crepeau \email{Helene.Crepeau@mat.ulaval.ca} and\cr
+\author{
 Louis-Paul Rivest \email{Louis-Paul.Rivest@mat.ulaval.ca} and\cr
+Helene Crepeau \email{Helene.Crepeau@mat.ulaval.ca} and\cr
 Serge Couturier \email{tuttu@videotron.ca} and\cr 
-Sophie Baillargeon \email{Sophie.Baillargeon@mat.ulaval.ca} }
+Sophie Baillargeon \email{Sophie.Baillargeon@mat.ulaval.ca}
+}
 \seealso{ \code{\link{petersen}} }
 \examples{
 data(GRH93)

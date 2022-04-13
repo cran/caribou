@@ -49,10 +49,12 @@ Academic Press.
 Wittes, J.T. (1972). On the bias and estimated variance of Chapman's two-sample capture-recapture 
 population estimate. \emph{Biometrics}, \bold{28}, 592-597.
 }
-\author{ Helene Crepeau \email{Helene.Crepeau@mat.ulaval.ca} and\cr
+\author{
 Louis-Paul Rivest \email{Louis-Paul.Rivest@mat.ulaval.ca} and\cr
+Helene Crepeau \email{Helene.Crepeau@mat.ulaval.ca} and\cr
 Serge Couturier \email{tuttu@videotron.ca} and\cr 
-Sophie Baillargeon \email{Sophie.Baillargeon@mat.ulaval.ca} }
+Sophie Baillargeon \email{Sophie.Baillargeon@mat.ulaval.ca}
+}
 \seealso{ \code{\link{abundance}} }
 \examples{
 data(GRH93)

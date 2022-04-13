@@ -33,7 +33,6 @@ Patterson, B. R., Olsen, B. T. and Joly, D. O. (2004). Population estimate for t
 caribou herd using post-calving photography. \emph{Arctic}, \bold{57}, 47-58. 
 }
 \examples{
-data(BEH00)
 petersen(BEH00, M=33)
 abundance(BEH00, n=33, model="H")
 }
